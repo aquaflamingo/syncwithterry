@@ -1,0 +1,4 @@
+venv
+.env
+terry.zip
+*.egg-info
