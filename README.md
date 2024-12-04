@@ -1,5 +1,7 @@
 # Terry - Your AI Product Manager 🤖
 
+![terry](https://github.com/user-attachments/assets/dc9c79a7-3f02-4b2f-a474-5ac28b50fcb1)
+
 Terry is an AI product manager that developers actually love. With a dry sense of humor and a knack for corporate satire, Terry helps create well-structured tickets while keeping the team entertained.
 
 
